@@ -21,3 +21,12 @@ No se trata simplemente de generar código, sino de mantener el control sobre la
 **La IA ejecuta y potencia. La ingeniería define, gobierna y valida.**
 
 
+<p align="left">
+  <a href="https://portafolio-danieldeleon.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+  </a>
+<a href="https://danieldeleon-portafolio-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio_nuevo-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+  </a>
+   
+</p>
