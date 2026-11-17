@@ -1,7 +1,7 @@
  
-<h3 align="center">Hi there 👋</h3>
+<h3  >Hi there 👋</h3>
 
-<h3 align="center">
+<h3  >
   Desarrollador Full Stack | Solucionador Creativo de Problemas
 </h3>
 
