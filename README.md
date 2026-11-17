@@ -23,10 +23,9 @@ No se trata simplemente de generar código, sino de mantener el control sobre la
 
 <p align="left">
   <a href="https://portafolio-danieldeleon.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Portafolio-0d1117?style=flat&logo=googlechrome&logoColor=%23b0b0b0&labelColor=0d1117&color=0d1117" />
   </a>
-<a href="https://danieldeleon-portafolio-nine.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio_nuevo-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+  <a href="https://danieldeleon-portafolio-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio_nuevo-0d1117?style=flat&logo=googlechrome&logoColor=%23b0b0b0&labelColor=0d1117&color=0d1117" />
   </a>
-   
 </p>
