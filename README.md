@@ -20,16 +20,4 @@ No se trata simplemente de generar código, sino de mantener el control sobre la
 
 **La IA ejecuta y potencia. La ingeniería define, gobierna y valida.**
 
-### 🧠 Mis skills
- 
- ```javascript
-const techStack = {
-  frontend: ["JavaScript", "TypeScript", "React", "Vue.js", "Nuxt.js"],
-  backend: ["Node.js", "PHP", "Laravel", "Python"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Git", "GitHub", "Docker", "CI/CD"]
-};
 
-console.log("Building secure and scalable software.");
-```
- 
